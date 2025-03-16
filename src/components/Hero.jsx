@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/react';
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
-import { Link as ScrollLink } from 'react-scroll';
+// import { Link as ScrollLink } from 'react-scroll';
 import SocialBtns from './SocialBtns';
 
 export default function Hero({ data, socialData }) {
